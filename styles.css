@@ -1,0 +1,12 @@
+@import url("https://use.typekit.net/cyt1iyu.css");
+
+body {
+    background-color: #f2f2f2; /* цвет фона */
+    color: #0f141e; /* цвет шрифта */
+
+    font-size: 16px; /* размер шрифта */
+    font-weight: normal; /* жирность шрифта */
+    font-family: roboto, sans-serif; /* сам шрифт */
+
+    /* font: normal 16px roboto, sans-serif; можно объединять */
+}
